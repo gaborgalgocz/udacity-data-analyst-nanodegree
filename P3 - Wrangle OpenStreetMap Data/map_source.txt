@@ -1,0 +1,13 @@
+Selected area:
+
+Dublin, Ireland
+https://www.openstreetmap.org/export#map=10/53.3497/-6.2615
+
+OSM data source:
+https://mapzen.com/data/metro-extracts
+https://s3.amazonaws.com/metro-extracts.mapzen.com/dublin_ireland.osm.bz2
+
+Reason of choice: 
+English speaking country
+Reasonable size
+

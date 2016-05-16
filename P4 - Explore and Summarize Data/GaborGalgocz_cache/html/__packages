@@ -1,0 +1,6 @@
+base
+ggplot2
+dplyr
+GGally
+reshape2
+gridExtra

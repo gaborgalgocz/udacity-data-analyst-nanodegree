@@ -1,0 +1,12 @@
+Sources:
+
+https://wiki.openstreetmap.org/wiki/Elements
+
+https://docs.mongodb.org/getting-started/python/query/
+
+http://api.mongodb.org/python/current/installation.html
+
+I had difficulties with installing PyMongo, because apparently my computer contains two Python installations, one is the default Python shipped with OS X and another that I installed with Anaconda. I had to research several discussions on StackOverflow to solve the problem. This site provided the one line that I needed to solve the issue:
+
+https://binstar.org/dan_blanchard/pymongo
+
