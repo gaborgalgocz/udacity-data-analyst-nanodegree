@@ -2,7 +2,7 @@
 
 *Project work for Udacity's Data Analyst nanodegree*
 
-##Projects:
+##Project details
 
 ### P1: Test a Perceptual Phenomenon
 *Descriptive and Inferential Statistics*
